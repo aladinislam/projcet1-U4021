@@ -1,0 +1,214 @@
+
+
+  body {
+    margin: 0;
+    padding: 0 100px 100px;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+    max-width: 1440px;
+    height: 100%;
+  }
+  .head1{
+      margin: 0;
+      padding: 10px;
+      display:flex;
+      justify-content: space-between;
+
+  }
+  .head1 img{
+      width: 100px;
+      height: auto;
+  }
+
+  ul li{
+      display: inline-block;
+      margin-left:10px ;
+      margin-right:10px ;
+     
+
+  }
+  ul li:hover{
+      background: burlywood;
+  }
+  .main{
+      background-image: url(img/bg-curve-desktop.svg);
+      background-repeat: no-repeat;
+      background-position: center bottom;
+      padding: 80px 0;
+      display:flex;
+      justify-content: space-between;
+  }
+  .part1 h2{
+      height: auto;
+      width: 500px;
+    font-size: 30px;
+    font-weight: 500;
+  }
+  .part1 p{
+      font-size: 14px;
+  }
+  .part1 input[type="email"]{
+      background: white;
+      color: black;
+      width: 250px;
+      padding-top: 2px;
+      padding-bottom: 2px;
+  }
+  .part1 input[type="submit"]{
+      width: 150px;
+      height: 25px;
+      padding-top: 2px;
+      padding-bottom: 2px;
+      border-radius: 5px;
+      border-color: black;
+     background-color: rgb(40, 40, 250);
+     color: white;
+      
+  }
+
+  .part1 input:hover{
+      background-color: rgb(236, 56, 56);
+  }
+
+  .part2 img{
+      width: 500px;
+      height: auto;
+  }
+  .main2{
+    
+    display:flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+    
+
+  }
+  .part3 h2{
+      font-weight: 400;
+    height: auto;
+    width: 720px;
+  font-size: 30px;
+  }
+  .part3{
+      font-size: 13px;
+  }
+  .part3 a{
+    color: rgb(52, 218, 37);
+    border-bottom: chartreuse;
+  }
+  .part3 a:hover{
+      background: blue;
+  }
+  .part4 img{
+      width: 500px;
+      height: auto;
+  }
+  .main3{
+      padding: 20px;
+      margin-top: 35px;
+    width: 300px;
+    background-color:rgb(245, 245, 245) ;
+    
+}
+.koma{
+    margin: auto;
+    padding: 10px;
+    width: 20px; ;
+    height:auto ;
+}
+.boxtext h4{
+   
+    font-size: 14px;
+   margin-block-end: auto;
+}
+.boxtext p{
+    margin-block-end: auto;
+}
+.main3 p{
+    font-size: 12px;
+    
+}
+.men{
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.imgbox{
+    display: flex;
+
+}
+
+.main4{
+    background-color: rgb(118, 118, 167);
+    display: flex;
+    justify-content: space-between;
+    height: 200px;
+   
+}
+
+
+
+
+.part5 h3{ 
+    color: white;
+  
+    padding: 15px;
+    margin-left: 40px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.part5 p{
+    color: white;
+    margin-left: 60px;
+   padding-bottom: 50px;
+    font-size: 12px;
+    font-weight: 200px
+    ;
+}
+.part6{
+    padding-right: 35px;
+    padding: 50px;
+}
+.part6 :hover{
+    background: rgb(194, 142, 241);
+}
+.example{
+    width:300px;
+    height: 27px;
+}
+.example1{
+    color: white;
+    background: rgb(53, 53, 233);
+    height: 25px;
+}
+.main5{
+    background:rgb(3, 3, 104);
+    height: 180px;
+    padding: 40px;
+}
+
+.img1{
+    width: 100px;
+      height: auto;
+}
+.main6{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.main6 li{
+    font-size: 12px;
+    margin-bottom: 10px;
+    display: block;
+}
+.part7{
+    font-size: 12px;
+}
+
+}
+.part10 li{
+    padding-right: 25px;
+    margin-left: 10px;
+    display: inline-block;
+}
+  
